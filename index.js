@@ -1,7 +1,7 @@
 const aoijs = require("aoi.js")
 
 const bot = new aoijs.Bot({
-    token: "OTI1OTg4NDQ1NDc2NzUzNDc5.Yc1H8Q.T6F1a9Y_ciBncEgClOYPouDkuxo",
+    token: "OTI1OTg4NDQ1NDc2NzUzNDc5.Yc1H8Q.3wProy8lG6XtvUkvySStML2OYNs",
 prefix: "+",
 intents: ["GUILDS", "GUILD_MESSAGES"]
 })
@@ -22,10 +22,11 @@ bot.status({
 })
 
 bot.status({
-    text: "in develeopment",
+    text: "$serverCount servers!",
     type: "WATCHING",
     time: 12
 })
+
 //Ready Event
 bot.readyCommand({
     channel: "",
