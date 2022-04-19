@@ -3,7 +3,7 @@
 Please Only Use if you know what to-do in aoi.js
 --
 
-Need Help Add me on Discord: CloudGamer#2023
+Need Help Add me on Discord: CloudGamer131#7316
 --
 
 Want To Run This GitHub Repo On Replit Click The Run on Replit Button Below to do That.
